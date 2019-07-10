@@ -1,0 +1,301 @@
+{
+  "Id": 17012533,
+  "Name": "Túi Xách GC Sang Chảnh Rẻ Đẹp Hàng Quảng Châu Cao Cấp",
+  "StoreSku": "QC696",
+  "Price": 0,
+  "HeightProduct": null,
+  "WitdhProduct": null,
+  "LengthProduct": null,
+  "UnitId": "Single",
+  "Weight": 500,
+  "StockAvailability": true,
+  "StockQuantity": 0,
+  "IsManageStock": true,
+  "ProductStatus": 2,
+  "Description": "<p><span style=\"color: rgba(0, 0, 0, 0.8); font-size: 18pt\">Túi GC cao cấp rẻ đẹp hàng Quảng Châu cao cấp , túi xách nữ giá rẻ đẹp cá tính, túi xách nữ thời trang, túi xách nữ </span></p><p><span style=\"color: rgba(0, 0, 0, 0.8); font-size: 18pt\">💥 💥 HOT HOT 💥 💥 </span></p><p><span style=\"color: rgba(0, 0, 0, 0.8); font-size: 18pt\">👉KHÔNG ƯNG Ý HOÀN TIỀN. </span></p><p><span style=\"color: rgba(0, 0, 0, 0.8); font-size: 18pt\">👉 Sản phẩm Túi GC cao cấp nhập tại xưởng sản xuất túi uy tính nhất Quảng Châu và cung cấp ra thị trường. Shop chạy doanh số trên sàn nên bán giá siêu yêu thương chỉ 200k cho sản phẩm siêu dễ thương. Túi GC cao cấp rẻ đẹp hàng Quảng Châu cao cấp, túi xách nữ giá rẻ đẹp cá tính, túi xách nữ thời trang, túi xách nữ</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8); font-size: 18pt\"> 👉TẠI SAO GIÁ RẺ. Vì xưởng trực tiếp tại xưởng bên Quảng Châu, không hề qua khâu trung gian nào hết nên=&gt;&gt;&gt; giá siêu mềm, sản phẩm được nâng niu chăm chút cẩn thận trước khi đến tay khách hàng.</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8); font-size: 18pt\"> 👉TIN ĐƯỢC LỜI SHOP QUẢNG CÁO KHÔNG? Ngại gì không thử khi được xem hàng trước khi nhận. Shop còn bảo hành đổi trả cho khách trong vòng 5 ngày. Shop làm ăn uy tín, luôn lấy khách hàng làm mục tiêu với phương châm “UY TÍN TẠO NIỀM TIN, CHẤT LƯỢNG ĐỂ PHỤC VỤ”. </span></p><p><span style=\"color: rgba(0, 0, 0, 0.8); font-size: 18pt\">Túi xách nữ da PU cao cấp rẻ đẹp hàng Quảng Châu cao cấp, túi xách nữ giá rẻ đẹp cá tính, túi xách nữ thời trang, túi xách nữ</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8); font-size: 18pt\"> ------------------❤️❤️❤️------------------ THÔNG TIN CHI TIẾT</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8); font-size: 18pt\"> ❤️ Màu sắc: Trắng <br>❤️ Chất liệu: Da PU bao bền đẹp <br>❤️ Kích thước: 20*14*8</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8); font-size: 18pt\"> -----------------❤️❤️❤️------------------</span></p><p><span style=\"color: rgba(0, 0, 0, 0.8); font-size: 18pt\"><img src=\"http://media3.scdn.vn/img3/2019/3_27/9wmiUq_simg_d0daf0_800x1200_max.jpg\" style=\"margin: 0 auto; display: block\"><br><br><img src=\"http://media3.scdn.vn/img3/2019/3_27/rmkexl_simg_d0daf0_800x1200_max.jpg\" style=\"margin: 0 auto; display: block\"><br><br><img src=\"http://media3.scdn.vn/img3/2019/3_27/rnrywI_simg_d0daf0_800x1200_max.jpg\" style=\"margin: 0 auto; display: block\"><br><br><img src=\"http://media3.scdn.vn/img3/2019/3_27/bFGazP_simg_d0daf0_800x1200_max.jpg\" style=\"margin: 0 auto; display: block\"><br><br><img src=\"http://media3.scdn.vn/img3/2019/3_27/P0vD0W_simg_d0daf0_800x1200_max.jpg\" style=\"margin: 0 auto; display: block\"><br><br><br></span></p>",
+  "DescriptionChange": false,
+  "Cat2Id": 1722,
+  "Cat3Id": 1723,
+  "Cat4Id": 1731,
+  "VersionNo": "1562670948829",
+  "Attributes": [
+    {
+      "ID": 1051,
+      "Name": "Chất liệu",
+      "ControlType": "CheckBox",
+      "AttributeValues": [
+        {
+          "ID": 18013,
+          "Value": "Chất liệu khác",
+          "AttributeImg": null,
+          "DisplayOrder": 0,
+          "IsDisplay": true,
+          "IsSelected": true,
+          "IsOther": false,
+          "AttributeCode": "chat_lieu_1_2_3_4",
+          "ControlType": "CheckBox",
+          "AttributeName": "Chất liệu",
+          "IsCustom": false,
+          "OptionTempId": 0
+        }
+      ],
+      "DisplayOrder": 0,
+      "IsRequired": true,
+      "AttributeTempId": 0,
+      "IsCheckout": false,
+      "IsCustom": false,
+      "IsImage": false
+    },
+    {
+      "ID": 284,
+      "Name": "Màu sắc",
+      "ControlType": "CheckBox",
+      "AttributeValues": [
+        {
+          "ID": 604,
+          "Value": "Trắng",
+          "AttributeImg": "https://media3.scdn.vn/img3/2019/3_27/9wmiUq.jpg",
+          "DisplayOrder": 0,
+          "IsDisplay": true,
+          "IsSelected": true,
+          "IsOther": false,
+          "AttributeCode": "mau_sac",
+          "ControlType": "CheckBox",
+          "AttributeName": "Màu sắc",
+          "IsCustom": false,
+          "OptionTempId": 0
+        },
+        {
+          "ID": 605,
+          "Value": "Đen",
+          "AttributeImg": "https://media3.scdn.vn/img3/2019/3_27/P0vD0W.jpg",
+          "DisplayOrder": 0,
+          "IsDisplay": true,
+          "IsSelected": true,
+          "IsOther": false,
+          "AttributeCode": "mau_sac",
+          "ControlType": "CheckBox",
+          "AttributeName": "Màu sắc",
+          "IsCustom": false,
+          "OptionTempId": 0
+        },
+        {
+          "ID": 607,
+          "Value": "Xanh lá",
+          "AttributeImg": "https://media3.scdn.vn/img3/2019/3_27/rmkexl.jpg",
+          "DisplayOrder": 0,
+          "IsDisplay": true,
+          "IsSelected": true,
+          "IsOther": false,
+          "AttributeCode": "mau_sac",
+          "ControlType": "CheckBox",
+          "AttributeName": "Màu sắc",
+          "IsCustom": false,
+          "OptionTempId": 0
+        }
+      ],
+      "DisplayOrder": 0,
+      "IsRequired": true,
+      "AttributeTempId": 0,
+      "IsCheckout": true,
+      "IsCustom": false,
+      "IsImage": true
+    },
+    {
+      "ID": 1129,
+      "Name": "Kích thước",
+      "ControlType": "TextBox",
+      "AttributeValues": [
+        {
+          "ID": 0,
+          "Value": "100",
+          "AttributeImg": null,
+          "DisplayOrder": 0,
+          "IsDisplay": true,
+          "IsSelected": true,
+          "IsOther": false,
+          "AttributeCode": "kich_thuoc_1_2",
+          "ControlType": "TextBox",
+          "AttributeName": "Kích thước",
+          "IsCustom": false,
+          "OptionTempId": 0
+        }
+      ],
+      "DisplayOrder": 0,
+      "IsRequired": true,
+      "AttributeTempId": 0,
+      "IsCheckout": false,
+      "IsCustom": false,
+      "IsImage": false
+    }
+  ],
+  "productPictures": [
+    {
+      "Id": 0,
+      "PictureURL": "https://media3.scdn.vn/img3/2019/3_27/9wmiUq.jpg"
+    },
+    {
+      "Id": 0,
+      "PictureURL": "https://media3.scdn.vn/img3/2019/3_27/rmkexl.jpg"
+    },
+    {
+      "Id": 0,
+      "PictureURL": "https://media3.scdn.vn/img3/2019/3_27/rnrywI.jpg"
+    },
+    {
+      "Id": 0,
+      "PictureURL": "https://media3.scdn.vn/img3/2019/3_27/bFGazP.jpg"
+    },
+    {
+      "Id": 0,
+      "PictureURL": "https://media3.scdn.vn/img3/2019/3_27/P0vD0W.jpg"
+    }
+  ],
+  "ReasonComment": null,
+  "ProductTags": "túi xách quảng châu cao cấp,túi xách nữ đẹp,túi xách giá rẻ đẹp,túi đeo chéo nữ đẹp,túi chéo nữ",
+  "OriginalPrice": 219000,
+  "ProductImage": "https://media3.scdn.vn/img3/2019/3_27/9wmiUq.jpg",
+  "BrandId": 0,
+  "ProductRelateds": [
+    {
+      "ImageUrl": "https://media3.scdn.vn/img3/2019/3_15/w9UptV.jpg",
+      "productId": 16717133,
+      "productname": "Túi Xách Cao Cấp Rẻ Đẹp Hàng Quảng Châu - 2 Ngăn"
+    },
+    {
+      "ImageUrl": "https://media3.scdn.vn/img3/2019/3_27/RSuOsJ.jpg",
+      "productId": 17011353,
+      "productname": "Túi Vân Cá Sấu Rẻ Đẹp Hàng Quảng Châu Cao Cấp"
+    },
+    {
+      "ImageUrl": "https://media3.scdn.vn/img3/2019/3_27/P3r1D7.jpg",
+      "productId": 17008884,
+      "productname": "Túi \bNữ Kẻ Sọc Xu Hướng Hàn Quốc Cao Cấp Rẻ Đẹp Hàng Quảng Châu Cao Cấp"
+    },
+    {
+      "ImageUrl": "https://media3.scdn.vn/img3/2019/3_27/TUsERN.jpg",
+      "productId": 17007604,
+      "productname": "Túi Da Nhập Cao Cấp Rẻ Đẹp Hàng Hàn Quốc Cao Cấp"
+    },
+    {
+      "ImageUrl": "https://media3.scdn.vn/img3/2019/3_27/2j64Ma.jpg",
+      "productId": 17010339,
+      "productname": "Túi GC Cao Cấp Rẻ Đẹp Hàng Quảng Châu Cao Cấp"
+    }
+  ],
+  "VideoLinks": null,
+  "VideoLinksThumb": "",
+  "SEOScore": 79,
+  "SEOKeyWord": "Túi GC Sang Chảnh Rẻ Đẹp Hàng Quảng Châu Cao Cấp",
+  "SEOTitle": "Túi GC Sang Chảnh Rẻ Đẹp Hàng Quảng Châu Cao Cấp",
+  "SEODescription": "Túi GC Sang Chảnh Rẻ Đẹp Hàng Quảng Châu Cao Cấp\n",
+  "CertificateFileUpload": [],
+  "special_price": 0,
+  "promotion_from_date": "",
+  "promotion_to_date": "",
+  "PromotionPriceDateRange": "",
+  "canEditPromotionInfo": true,
+  "IsPromotion": 0,
+  "extended_shipping_package": {
+    "is_using_instant": false,
+    "is_using_in_day": false,
+    "is_self_shipping": false,
+    "__moduleId__": "models/product/m.shippingpackage"
+  },
+  "Variants": [
+    {
+      "IsPromotion": 0,
+      "SkuUser": "SKU xanh lá",
+      "Price": 210000,
+      "OldPrice": 210000,
+      "SpecialPrice": null,
+      "Qty": 0,
+      "promotion_effect_date_string": "",
+      "mau_sac": {
+        "ID": 607,
+        "Background": "#00ff00",
+        "DisplayOrder": 0,
+        "Value": "Xanh lá",
+        "AttributeImg": "https://media3.scdn.vn/img3/2019/3_27/rmkexl_simg_02d57e_50x50_maxb.jpg",
+        "IsSelected": true,
+        "IsCustom": false
+      },
+      "Attributes": [
+        {
+          "AttributeId": 284,
+          "Value": "Xanh lá",
+          "OptionId": 607,
+          "AttributeImg": "https://media3.scdn.vn/img3/2019/3_27/rmkexl_simg_02d57e_50x50_maxb.jpg",
+          "Name": "Màu sắc",
+          "AttributeCode": "mau_sac",
+          "IsCustom": false
+        }
+      ],
+      "PromotionStartDate": null,
+      "PromotionEndDate": null
+    },
+    {
+      "IsPromotion": 0,
+      "SkuUser": "SKU đen",
+      "Price": 225000,
+      "OldPrice": 225000,
+      "SpecialPrice": null,
+      "Qty": 0,
+      "promotion_effect_date_string": "",
+      "mau_sac": {
+        "ID": 605,
+        "Background": "#000000",
+        "DisplayOrder": 0,
+        "Value": "Đen",
+        "AttributeImg": "https://media3.scdn.vn/img3/2019/3_27/P0vD0W_simg_02d57e_50x50_maxb.jpg",
+        "IsSelected": true,
+        "IsCustom": false
+      },
+      "Attributes": [
+        {
+          "AttributeId": 284,
+          "Value": "Đen",
+          "OptionId": 605,
+          "AttributeImg": "https://media3.scdn.vn/img3/2019/3_27/P0vD0W_simg_02d57e_50x50_maxb.jpg",
+          "Name": "Màu sắc",
+          "AttributeCode": "mau_sac",
+          "IsCustom": false
+        }
+      ],
+      "PromotionStartDate": null,
+      "PromotionEndDate": null
+    },
+    {
+      "IsPromotion": 0,
+      "SkuUser": "Trắng",
+      "Price": 219000,
+      "OldPrice": 219000,
+      "SpecialPrice": null,
+      "Qty": 10,
+      "promotion_effect_date_string": "",
+      "mau_sac": {
+        "ID": 604,
+        "Background": "#ffffff",
+        "DisplayOrder": 0,
+        "Value": "Trắng",
+        "AttributeImg": "https://media3.scdn.vn/img3/2019/3_27/9wmiUq_simg_02d57e_50x50_maxb.jpg",
+        "IsSelected": true,
+        "IsCustom": false
+      },
+      "Attributes": [
+        {
+          "AttributeId": 284,
+          "Value": "Trắng",
+          "OptionId": 604,
+          "AttributeImg": "https://media3.scdn.vn/img3/2019/3_27/9wmiUq_simg_02d57e_50x50_maxb.jpg",
+          "Name": "Màu sắc",
+          "AttributeCode": "mau_sac",
+          "IsCustom": false
+        }
+      ],
+      "PromotionStartDate": null,
+      "PromotionEndDate": null
+    }
+  ],
+  "IsConfigVariant": true
+}

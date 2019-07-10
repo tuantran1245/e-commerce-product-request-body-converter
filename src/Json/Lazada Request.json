@@ -1,0 +1,273 @@
+{
+  "reserved_id": "294942125",
+  "name": "Apple iphone 6",
+  "category": {
+    "value": 4518,
+    "label": "Điện thoại & Máy tính bảng > Điện thoại di động"
+  },
+  "brand": 69,
+  "model": "iphone",
+  "description": {
+    "type": "html",
+    "lorikeet": {
+      "uiType": "customEditor",
+      "readOnly": false,
+      "goldLog": "/LazadaSellerCenter.AddProduct.HighlightsOptions",
+      "id": 100005605,
+      "name": "description",
+      "label": "Mô tả sản phẩm (Lorikeet)",
+      "type": "basicProperty",
+      "required": false,
+      "tips": "Phần Mô tả sản phẩm cung cấp những thông tin hữu ích về sản phẩm để giúp khách hàng quyết định mua sắm.",
+      "event": [
+        {
+          "name": "openEditor",
+          "type": "iframe",
+          "url": "/pdp/detail/decorate",
+          "method": "GET",
+          "params": {
+            "beta": true
+          }
+        }
+      ],
+      "extensions": {
+        "itemId": "294942125"
+      },
+      "error": "",
+      "pcPageId": 0,
+      "wirelessPageId": 0,
+      "imageList": []
+    },
+    "html": {
+      "richtext": "<p style=\"margin:0;padding:8px 0;white-space:pre-wrap;\">iPhone 6 là một trong những smartphone được yêu thích nhất của Apple. Lắng nghe nhu cầu về thiết kế, khả năng lưu trữ và giá cả, iPhone 6 32GB được chính thức phân phối chính hãng tại Việt Nam hứa hẹn sẽ là một sản phẩm rất &quot;Hot&quot;.</p>",
+      "imageList": [
+        {
+          "url": "https://vn-live-02.slatic.net/p/df48118743cbf6c75f7fadf9497b5fe6.jpg",
+          "height": 76,
+          "width": 750
+        }
+      ]
+    }
+  },
+  "video": "ĐƯỜNG DẪN VIDEO",
+  "short_description": "<p>ĐẶC ĐIỂM NỔI BẬT CỦA SẢN PHẨM</p>\n",
+  "warranty_type": 63482,
+  "warranty": 63423,
+  "product_warranty": "CHÍNH SÁCH BẢO HÀNH SẢN PHẨM",
+  "Hazmat": [
+    45311
+  ],
+  "package_content": "THÂN MÁY IPHONE 6 + SẠC, CÁP, TAI NGHE",
+  "package_weight": 200,
+  "package_length": 15,
+  "package_width": 20,
+  "package_height": 25,
+  "shipping_fee": {
+    "header": {
+      "option": "Hình thức vận chuyển",
+      "detail": "Xem chi tiết phí vận chuyển"
+    },
+    "rows": [
+      {
+        "title": "EXPRESS",
+        "regions": [
+          {
+            "name": "Ha Noi",
+            "cost": "1111000.00"
+          }
+        ]
+      },
+      {
+        "title": "STANDARD",
+        "regions": [
+          {
+            "name": "Ha Noi",
+            "cost": "1193500.00"
+          },
+          {
+            "name": "Ho Chi Minh",
+            "cost": "4781000.00"
+          },
+          {
+            "name": "Mien Bac",
+            "cost": "2215500.00"
+          },
+          {
+            "name": "Mien Nam",
+            "cost": "4808500.00"
+          },
+          {
+            "name": "Da Nang - Hue",
+            "cost": "1193500.00"
+          }
+        ]
+      }
+    ],
+    "visible": true
+  },
+  "operating_system": 44423,
+  "ram_memory": 44786,
+  "network_connections": [
+    47298,
+    45273
+  ],
+  "type_of_battery": 45264,
+  "sim_slots": 313,
+  "resolution": 44961,
+  "camera_front": 47264,
+  "condition": 47196,
+  "camera_back": 47248,
+  "operating_system_version": 44422,
+  "battery_capacity": 47308,
+  "screen_type": 5533,
+  "processor_type": 44312,
+  "video_resolution": 62235,
+  "phone_features": [
+    7711,
+    44607,
+    62927,
+    67891
+  ],
+  "pixel_ppi": 62897,
+  "display_size_mobile": 5.2,
+  "phone_type": 114052,
+  "color_family": [
+    {
+      "value": {
+        "label": "Đen",
+        "value": 63859
+      },
+      "__images__": [
+        "https://vn-live-02.slatic.net/p/4021c28f9c97d37f582af0c608672667.jpg"
+      ],
+      "color_thumbnail": [],
+      "thumbnail_source": 1
+    },
+    {
+      "value": {
+        "label": "Trắng",
+        "value": 35520
+      },
+      "__images__": [
+        "https://vn-live-02.slatic.net/p/ceeef9b069407c079ea87c592569f060.jpg"
+      ],
+      "thumbnail_source": 1,
+      "color_thumbnail": []
+    },
+    {
+      "value": {
+        "label": "",
+        "value": ""
+      },
+      "__images__": [],
+      "thumbnail_source": 1,
+      "color_thumbnail": []
+    }
+  ],
+  "storage_capacity_new": [
+    {
+      "value": {
+        "label": "128GB",
+        "value": 44268
+      },
+      "undefined": [],
+      "thumbnail_source": 1
+    },
+    {
+      "value": {
+        "label": "250GB",
+        "value": 44271
+      },
+      "": [],
+      "thumbnail_source": 1
+    },
+    {
+      "value": {
+        "label": "",
+        "value": ""
+      },
+      "": [],
+      "thumbnail_source": 1
+    }
+  ],
+  "sku": [
+    {
+      "active": true,
+      "color_family": 63859,
+      "storage_capacity_new": 44268,
+      "SellerSku": "SKU 1-Đen-128GB",
+      "quantity": 100,
+      "price": 7500000,
+      "special_price": 6500000,
+      "special_from_date": "2019-07-10 00:00:00",
+      "special_to_date": "2019-08-22 00:00:00",
+      "GTIN": "MÃ GTIN 1",
+      "mpn": "MÃ MPN 1",
+      "key": "63859@-@44268",
+      "__images__": [
+        "https://vn-live-02.slatic.net/p/4021c28f9c97d37f582af0c608672667.jpg"
+      ],
+      "thumbnail_source": 1
+    },
+    {
+      "active": true,
+      "color_family": 35520,
+      "storage_capacity_new": 44268,
+      "GTIN": "MÃ GTIN 3",
+      "mpn": "MÃ MPN 3",
+      "special_price": 6500000,
+      "SellerSku": "SKU 3-Trắng-128GB",
+      "quantity": 100,
+      "price": 7500000,
+      "special_to_date": "2019-08-22 00:00:00",
+      "special_from_date": "2019-07-10 00:00:00",
+      "key": "35520@-@44268",
+      "__images__": [
+        "https://vn-live-02.slatic.net/p/ceeef9b069407c079ea87c592569f060.jpg"
+      ],
+      "thumbnail_source": 1
+    },
+    {
+      "active": true,
+      "color_family": 63859,
+      "storage_capacity_new": 44271,
+      "GTIN": "MÃ GTIN 2",
+      "mpn": "MÃ MPN 2",
+      "special_price": 6500000,
+      "SellerSku": "SKU 2-Đen-250GB",
+      "quantity": 100,
+      "price": 7500000,
+      "special_to_date": "2019-08-22 00:00:00",
+      "special_from_date": "2019-07-10 00:00:00",
+      "key": "63859@-@44271",
+      "__images__": [
+        "https://vn-live-02.slatic.net/p/4021c28f9c97d37f582af0c608672667.jpg"
+      ],
+      "thumbnail_source": 1
+    },
+    {
+      "active": true,
+      "color_family": 35520,
+      "storage_capacity_new": 44271,
+      "GTIN": "MÃ GTIN 4",
+      "mpn": "MÃ MPN 4",
+      "special_price": 6500000,
+      "SellerSku": "SKU 4-Trắng-250GB",
+      "quantity": 100,
+      "price": 7500000,
+      "special_to_date": "2019-08-22 00:00:00",
+      "special_from_date": "2019-07-10 00:00:00",
+      "key": "35520@-@44271",
+      "__images__": [
+        "https://vn-live-02.slatic.net/p/ceeef9b069407c079ea87c592569f060.jpg"
+      ],
+      "thumbnail_source": 1
+    }
+  ],
+  "start_time": 1562649025895,
+  "GLOBAL": {
+    "reservedId": "",
+    "sellerId": "1000189279",
+    "shopId": ""
+  }
+}

@@ -1,0 +1,559 @@
+{
+  "product": {
+    "id": 2418047002,
+    "name": "Apple iphone 6",
+    "catid": 84,
+    "brand": "Apple",
+    "size_chart": "",
+    "tier_variation": [
+      {
+        "name": "Màu đen",
+        "images": [],
+        "options": [
+          "Màu trắng",
+          "màu đỏ"
+        ]
+      },
+      {
+        "name": "Loại To",
+        "options": [
+          "Loại Nhỏ",
+          "Loại vừa"
+        ]
+      }
+    ],
+    "promo_source": 0,
+    "images": [
+      "15965b1a6d3638c36a5b5fc099fcdfea",
+      "e22c205e3ef142eb30c9d6285f4c2c3e",
+      "ac6945c840492196562967179eecf672"
+    ],
+    "cat_status": 1,
+    "itemmodels": [
+      {
+        "id": "4999621841",
+        "modelid": 4999621841,
+        "itemid": 2418047002,
+        "name": "Màu trắng,Loại Nhỏ",
+        "currency": "VND",
+        "stock": 125,
+        "status": 1,
+        "price": "12000000",
+        "price_before_discount": "0",
+        "promotionid": 0,
+        "rebate_price": "0.00",
+        "sku": "SKU 1",
+        "promotion_refresh_time": 0,
+        "promo_stock": 0,
+        "promo_source": 0,
+        "flash_sale_status": "empty",
+        "flash_sale": "",
+        "tier_index": [
+          0,
+          0
+        ]
+      },
+      {
+        "id": "4999621842",
+        "modelid": 4999621842,
+        "itemid": 2418047002,
+        "name": "Màu trắng,Loại vừa",
+        "currency": "VND",
+        "stock": 125,
+        "status": 1,
+        "price": "12000000",
+        "price_before_discount": "0",
+        "promotionid": 0,
+        "rebate_price": "0.00",
+        "sku": "SKU 2",
+        "promotion_refresh_time": 0,
+        "promo_stock": 0,
+        "promo_source": 0,
+        "flash_sale_status": "empty",
+        "flash_sale": "",
+        "tier_index": [
+          0,
+          1
+        ]
+      },
+      {
+        "id": "4999621843",
+        "modelid": 4999621843,
+        "itemid": 2418047002,
+        "name": "màu đỏ,Loại Nhỏ",
+        "currency": "VND",
+        "stock": 125,
+        "status": 1,
+        "price": "12000000",
+        "price_before_discount": "0",
+        "promotionid": 0,
+        "rebate_price": "0.00",
+        "sku": "SKU 3",
+        "promotion_refresh_time": 0,
+        "promo_stock": 0,
+        "promo_source": 0,
+        "flash_sale_status": "empty",
+        "flash_sale": "",
+        "tier_index": [
+          1,
+          0
+        ]
+      },
+      {
+        "id": "4999621844",
+        "modelid": 4999621844,
+        "itemid": 2418047002,
+        "name": "màu đỏ,Loại vừa",
+        "currency": "VND",
+        "stock": 125,
+        "status": 1,
+        "price": "12000000",
+        "price_before_discount": "0",
+        "promotionid": 0,
+        "rebate_price": "0.00",
+        "sku": "SKU 4",
+        "promotion_refresh_time": 0,
+        "promo_stock": 0,
+        "promo_source": 0,
+        "flash_sale_status": "empty",
+        "flash_sale": "",
+        "tier_index": [
+          1,
+          1
+        ]
+      }
+    ],
+    "bundle_deal_id": null,
+    "can_use_bundle_sale": false,
+    "attributes": {
+      "values": [
+        {
+          "attr_id": 13796,
+          "prefill": false,
+          "status": 1,
+          "value": "Apple"
+        },
+        {
+          "attr_id": 13778,
+          "prefill": false,
+          "status": 1,
+          "value": "Apple iPhone 6"
+        },
+        {
+          "attr_id": 10650,
+          "prefill": false,
+          "status": 2,
+          "value": "32GB"
+        },
+        {
+          "attr_id": 10901,
+          "prefill": false,
+          "status": 2,
+          "value": "LTE"
+        },
+        {
+          "attr_id": 10923,
+          "prefill": false,
+          "status": 2,
+          "value": "Dual"
+        },
+        {
+          "attr_id": 10902,
+          "prefill": false,
+          "status": 2,
+          "value": "Yes"
+        },
+        {
+          "attr_id": 10903,
+          "prefill": false,
+          "status": 2,
+          "value": "5.2"
+        },
+        {
+          "attr_id": 10924,
+          "prefill": false,
+          "status": 2,
+          "value": "IOS"
+        },
+        {
+          "attr_id": 10904,
+          "prefill": false,
+          "status": 2,
+          "value": "512MB"
+        },
+        {
+          "attr_id": 10905,
+          "prefill": false,
+          "status": 2,
+          "value": "12.3MP"
+        },
+        {
+          "attr_id": 10906,
+          "prefill": false,
+          "status": 1,
+          "value": "1.2MP"
+        },
+        {
+          "attr_id": 10907,
+          "prefill": false,
+          "status": 2,
+          "value": "Yes"
+        },
+        {
+          "attr_id": 10909,
+          "prefill": false,
+          "status": 2,
+          "value": "Có"
+        },
+        {
+          "attr_id": 10922,
+          "prefill": false,
+          "status": 2,
+          "value": "2.0 Type-C"
+        },
+        {
+          "attr_id": 10910,
+          "prefill": false,
+          "status": 2,
+          "value": "3000"
+        },
+        {
+          "attr_id": 10911,
+          "prefill": false,
+          "status": 2,
+          "value": "Bạc"
+        },
+        {
+          "attr_id": 10925,
+          "prefill": false,
+          "status": 2,
+          "value": "12 Tháng"
+        }
+      ],
+      "modelid": 22167
+    },
+    "new_subcategories": [
+      [
+        84,
+        1979,
+        19042
+      ]
+    ],
+    "shopid": 26873193,
+    "stock": 500,
+    "status": 1,
+    "ctime": 1562653558,
+    "parent_sku": "SKU SAN PHAM",
+    "price": "12000000",
+    "price_min": "12000000.00",
+    "price_max": "12000000.00",
+    "price_before_discount": "0.00",
+    "wholesale_tier_list": [],
+    "view_count": 0,
+    "liked_count": 0,
+    "sold": 0,
+    "cooldown_seconds": 0,
+    "product_command": "update_general",
+    "promotion_refresh_time": 0,
+    "unlist": false,
+    "flag": 0,
+    "weight": "200",
+    "dimensions": {
+      "width": "15",
+      "length": "20",
+      "unit": 1,
+      "height": "25"
+    },
+    "logistics_channel": [
+      {
+        "id": "50018",
+        "category": 10008,
+        "channelid": 50018,
+        "cod_enabled": 0,
+        "cod_whitelist_enabled": 0,
+        "command": "",
+        "country": "VN",
+        "cover_shipping_fee": 0,
+        "default": 0,
+        "desc_key": "label_desc_sls",
+        "discount": 0,
+        "discount_json": "",
+        "display_name": "J&T Express",
+        "enable_massship": 0,
+        "enabled": 0,
+        "extra_data": "{\"itemMaxSize\":70,\"codMaxPriceIncludingShippingFee\":true,\"dimensionCriterion\":{\"maxLength\":140,\"maxWidth\":140,\"sumHeight\":140},\"pickupSamedayCutoffHour\":16,\"laneCode\":\"L-VN08\",\"extraFlag\":4096,\"maxWidth\":140,\"maxTotalHeight\":140,\"minSize\":0,\"volumetricFactor\":6000,\"maxTotalPrice\":5000000000000,\"maxHeight\":140,\"isSlsShippingFee\":1,\"maxLength\":140,\"isSls\":1,\"codMaxOrderTotal\":5000000000000,\"displayLastMile\":true,\"maxSize\":70000,\"itemMinSize\":0.01}",
+        "fakeid": "unpublished-2418047002-50018",
+        "flag": "288231106310139025",
+        "icon": "",
+        "is_shipping_fee_promotion_rule": false,
+        "item_flag": "0",
+        "level": 1,
+        "limits": {
+          "item_min_weight": 0.01,
+          "item_max_dimension": {
+            "width": 140,
+            "length": 140,
+            "unit": 1,
+            "height": 140
+          },
+          "checkout_max_weight": 70,
+          "order_max_weight": 70,
+          "order_min_weight": 0,
+          "item_max_weight": 70,
+          "checkout_min_weight": 0
+        },
+        "mass_apply_prices": 0,
+        "name": "J&T Express",
+        "name_key": "label_sls",
+        "preferred": 0,
+        "price": "14927.00",
+        "priority": 3,
+        "save_into_item": 1,
+        "size": 0,
+        "sizeid": 0,
+        "sizes": []
+      },
+      {
+        "id": "50011",
+        "category": 14,
+        "channelid": 50011,
+        "cod_enabled": 0,
+        "cod_whitelist_enabled": 0,
+        "command": "",
+        "country": "VN",
+        "cover_shipping_fee": 0,
+        "default": 0,
+        "desc_key": "",
+        "discount": 1,
+        "discount_json": "",
+        "display_name": "Giao Hàng Nhanh",
+        "enable_massship": 0,
+        "enabled": 0,
+        "extra_data": "{\"defaultPrice\":900000000,\"minSize\":0,\"codMaxPriceIncludingShippingFee\":true,\"decimalPlaces\":3,\"dimensionCriterion\":{\"maxLength\":200,\"maxWidth\":200,\"sumHeight\":200},\"pickupSamedayCutoffHour\":15,\"laneCode\":\"L-VN02\",\"isSls\":1,\"isSlsAsf\":1,\"defaultSize\":0.5,\"volumetricFactor\":5000,\"maxTotalPrice\":2000000000000,\"itemMinSize\":0.01,\"itemMaxSize\":100,\"codMaxOrderTotal\":2000000000000,\"maxSize\":100000,\"isSyncInit\":1}",
+        "fakeid": "unpublished-2418047002-50011",
+        "flag": "695834330257",
+        "icon": "",
+        "is_shipping_fee_promotion_rule": false,
+        "item_flag": "0",
+        "level": 1,
+        "limits": {
+          "item_min_weight": 0.01,
+          "item_max_dimension": {
+            "width": 200,
+            "length": 200,
+            "unit": 1,
+            "height": 200
+          },
+          "checkout_max_weight": 100,
+          "order_max_weight": 100,
+          "order_min_weight": 0,
+          "item_max_weight": 100,
+          "checkout_min_weight": 0
+        },
+        "mass_apply_prices": 0,
+        "name": "Giao Hàng Nhanh",
+        "name_key": "",
+        "preferred": 0,
+        "price": "15100.00",
+        "priority": 4,
+        "save_into_item": 1,
+        "size": 0,
+        "sizeid": 0,
+        "sizes": []
+      },
+      {
+        "id": "50010",
+        "category": 15,
+        "channelid": 50010,
+        "cod_enabled": 0,
+        "cod_whitelist_enabled": 0,
+        "command": "",
+        "country": "VN",
+        "cover_shipping_fee": 0,
+        "default": 0,
+        "desc_key": "",
+        "discount": 1,
+        "discount_json": "",
+        "display_name": "Viettel Post",
+        "enable_massship": 0,
+        "enabled": 1,
+        "extra_data": "{\"defaultPrice\":900000000,\"minSize\":0,\"codMaxPriceIncludingShippingFee\":true,\"decimalPlaces\":3,\"pickupSamedayCutoffHour\":15,\"laneCode\":\"L-VN01\",\"isSls\":1,\"isSlsAsf\":1,\"defaultSize\":0.5,\"volumetricFactor\":6000,\"maxTotalPrice\":3000000000000,\"itemMinSize\":0.01,\"itemMaxSize\":100,\"codMaxOrderTotal\":3000000000000,\"maxSize\":100000,\"isSyncInit\":1}",
+        "fakeid": "unpublished-2418047002-50010",
+        "flag": "695834330257",
+        "icon": "",
+        "is_shipping_fee_promotion_rule": false,
+        "item_flag": "0",
+        "level": 1,
+        "limits": {
+          "item_min_weight": 0.01,
+          "checkout_max_weight": 100,
+          "order_max_weight": 100,
+          "order_min_weight": 0,
+          "item_max_weight": 100,
+          "checkout_min_weight": 0
+        },
+        "mass_apply_prices": 0,
+        "name": "Viettel Post",
+        "name_key": "",
+        "preferred": 0,
+        "price": "16500.00",
+        "priority": 5,
+        "save_into_item": 1,
+        "size": 0,
+        "sizeid": 0,
+        "sizes": []
+      },
+      {
+        "id": "50016",
+        "category": 30,
+        "channelid": 50016,
+        "cod_enabled": 0,
+        "cod_whitelist_enabled": 0,
+        "command": "",
+        "country": "VN",
+        "cover_shipping_fee": 0,
+        "default": 0,
+        "desc_key": "",
+        "discount": 1,
+        "discount_json": "",
+        "display_name": "VNPost Tiết Kiệm",
+        "enable_massship": 0,
+        "enabled": 0,
+        "extra_data": "{\"defaultPrice\":800000000,\"isSlsAsf\":1,\"codMaxPriceIncludingShippingFee\":true,\"decimalPlaces\":3,\"pickupSamedayCutoffHour\":12,\"laneCode\":\"L-VN06\",\"isSls\":1,\"defaultSizeid\":1,\"defaultSize\":0.5,\"volumetricFactor\":4000,\"maxTotalPrice\":10000000000000,\"itemMinSize\":0.01,\"minSize\":0,\"codMaxOrderTotal\":10000000000000,\"isSyncInit\":1}",
+        "fakeid": "unpublished-2418047002-50016",
+        "flag": "695825941649",
+        "icon": "",
+        "is_shipping_fee_promotion_rule": false,
+        "item_flag": "0",
+        "level": 1,
+        "limits": {
+          "item_min_weight": 0.01,
+          "order_min_weight": 0,
+          "checkout_min_weight": 0
+        },
+        "mass_apply_prices": 0,
+        "name": "VNPost Tiết Kiệm",
+        "name_key": "",
+        "preferred": 0,
+        "price": "8910.00",
+        "priority": 6,
+        "save_into_item": 1,
+        "size": 0,
+        "sizeid": 0,
+        "sizes": []
+      },
+      {
+        "id": "50012",
+        "category": 17,
+        "channelid": 50012,
+        "cod_enabled": 0,
+        "cod_whitelist_enabled": 0,
+        "command": "",
+        "country": "VN",
+        "cover_shipping_fee": 0,
+        "default": 0,
+        "desc_key": "",
+        "discount": 1,
+        "discount_json": "",
+        "display_name": "Giao Hàng Tiết Kiệm",
+        "enable_massship": 0,
+        "enabled": 1,
+        "extra_data": "{\"defaultPrice\":900000000,\"codMaxPriceIncludingShippingFee\":true,\"decimalPlaces\":3,\"dimensionCriterion\":{\"maxLength\":50,\"maxWidth\":50,\"sumHeight\":50},\"pickupSamedayCutoffHour\":15,\"laneCode\":\"L-VN03\",\"isSls\":1,\"minSize\":0,\"defaultSize\":0.5,\"volumetricFactor\":6000,\"maxTotalPrice\":50000000000000,\"itemMinSize\":0.01,\"defaultDistanceData\":{\"customerFirstAddress\":\"16 Le Loi\",\"customerDistrict\":\"Quan 1\",\"pickDistrict\":\"Quan 1\",\"customerProvince\":\"Ho Chi Minh\",\"pickProvince\":\"Ho Chi Minh\"},\"itemMaxSize\":10,\"codMaxOrderTotal\":3000000000000,\"maxSize\":10000}",
+        "fakeid": "unpublished-2418047002-50012",
+        "flag": "695834330257",
+        "icon": "",
+        "is_shipping_fee_promotion_rule": false,
+        "item_flag": "0",
+        "level": 1,
+        "limits": {
+          "item_min_weight": 0.01,
+          "item_max_dimension": {
+            "width": 50,
+            "length": 50,
+            "unit": 1,
+            "height": 50
+          },
+          "checkout_max_weight": 10,
+          "order_max_weight": 10,
+          "order_min_weight": 0,
+          "item_max_weight": 10,
+          "checkout_min_weight": 0
+        },
+        "mass_apply_prices": 0,
+        "name": "Giao Hàng Tiết Kiệm",
+        "name_key": "",
+        "preferred": 0,
+        "price": "16050.00",
+        "priority": 6,
+        "save_into_item": 1,
+        "size": 0,
+        "sizeid": 0,
+        "sizes": []
+      },
+      {
+        "id": "50015",
+        "category": 29,
+        "channelid": 50015,
+        "cod_enabled": 0,
+        "cod_whitelist_enabled": 0,
+        "command": "",
+        "country": "VN",
+        "cover_shipping_fee": 0,
+        "default": 0,
+        "desc_key": "",
+        "discount": 1,
+        "discount_json": "",
+        "display_name": "VNPost Nhanh",
+        "enable_massship": 0,
+        "enabled": 0,
+        "extra_data": "{\"defaultPrice\":800000000,\"isSlsAsf\":1,\"counterDelivery\":5022363,\"codMaxPriceIncludingShippingFee\":true,\"decimalPlaces\":3,\"counterAcceptance\":6431613,\"pickupSamedayCutoffHour\":12,\"laneCode\":\"L-VN05\",\"isSls\":1,\"defaultSizeid\":1,\"defaultSize\":0.5,\"volumetricFactor\":6000,\"maxTotalPrice\":10000000000000,\"itemMinSize\":0.01,\"minSize\":0,\"counterAllstatus\":1737089,\"codMaxOrderTotal\":10000000000000,\"isSyncInit\":1}",
+        "fakeid": "unpublished-2418047002-50015",
+        "flag": "695825941649",
+        "icon": "",
+        "is_shipping_fee_promotion_rule": false,
+        "item_flag": "0",
+        "level": 1,
+        "limits": {
+          "item_min_weight": 0.01,
+          "order_min_weight": 0,
+          "checkout_min_weight": 0
+        },
+        "mass_apply_prices": 0,
+        "name": "VNPost Nhanh",
+        "name_key": "",
+        "preferred": 0,
+        "price": "9075.00",
+        "priority": 6,
+        "save_into_item": 1,
+        "size": 0,
+        "sizeid": 0,
+        "sizes": []
+      }
+    ],
+    "is_pre_order": false,
+    "estimated_days": 2,
+    "can_use_wholesale": 0,
+    "condition": 1,
+    "rating_count": [],
+    "rating_star": 0,
+    "description": "iPhone 6 là một trong những smartphone được yêu thích nhất của Apple. Lắng nghe nhu cầu về thiết kế, khả năng lưu trữ và giá cả, iPhone 6 32GB được chính thức phân phối chính hãng tại Việt Nam hứa hẹn sẽ là một sản phẩm rất \"Hot\".",
+    "flash_sale_status": "empty",
+    "self_discountid": 0,
+    "cats_recommend": [],
+    "video_list": "[]",
+    "subcategories": [
+      1979
+    ],
+    "ongoing_upcoming_campaigns": "",
+    "approved_flash_sale": "",
+    "dts_lock": 0,
+    "cmt_count": 0,
+    "currency": "VND",
+    "flash_sale": "",
+    "promo_stock": 0,
+    "installment_tenures": {
+      "status": 0,
+      "enables": []
+    }
+  }
+}
